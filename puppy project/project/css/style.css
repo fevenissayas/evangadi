@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+}
+
+.puppies {
+  display: flex;
+  width: 960px;
+  justify-content: space-between;
+  margin: 40px auto;
+}
+
+img {
+  width: 100%;
+}
+
+.text {
+  background-color: #ee4c64;
+  width: 310px;
+  height: 310px;
+}
+
+.text p {
+  font-size: 60px;
+  padding: 50px;
+  text-align: center;
+}
+
+.second-tittle {
+  text-align: center;
+}
+
+.blueBG {
+  background-color: #0c4f70;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+}
+
+footer.blueBG {
+  padding-top: 50px;
+  padding-bottom: 80px;
+  font-size: x-large;
+}
